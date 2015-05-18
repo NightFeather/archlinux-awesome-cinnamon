@@ -1,6 +1,5 @@
 [Cinnamon Session]
 Name=Awesome session
 RequiredComponents=cinnamon-settings-daemon;awesome;
-RequiredProviders=windowmanager;notifications;
+RequiredProviders=windowmanager;
 DefaultProvider-windowmanager=awesome
-DefaultProvider-notifications=notification-daemon
