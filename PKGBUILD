@@ -6,7 +6,7 @@
 
 pkgname=awesome-cinnamon
 pkgver=0.1
-pkgrel='4'
+pkgrel='5'
 pkgdesc='Launch awesome with cinnamon-settings-daemon'
 arch=('any')
 url='https://github.com/clfarron4/archlinux-awesome-cinnamon/'
@@ -19,7 +19,7 @@ source=($pkgname.desktop
         awesome.session)
 md5sums=('42803aa2f97cec2bb68ca3ea4324dc2a'
          '871ecdef3228176b42e9e455c63e942f'
-         '918dc0803431c8248b2b40849be20cbc')
+         'ce4790dd10a0618701bddb2c8f140cf7')
 
 package() {
     cd $srcdir

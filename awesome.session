@@ -1,5 +1,5 @@
 [Cinnamon Session]
 Name=Awesome session
-RequiredComponents=cinnamon-settings-daemon;awesome;
+RequiredComponents=awesome;cinnamon-screensaver
 RequiredProviders=windowmanager;
 DefaultProvider-windowmanager=awesome
